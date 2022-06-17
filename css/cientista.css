@@ -1,0 +1,212 @@
+body.imagem1 {
+    color: white;
+    background-image: linear-gradient(90deg,black,blue);
+    background-attachment: fixed;
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+body.imagem2 {
+    color: white;
+    background-image: url(../img/telescopio.jpg);
+    background-attachment: fixed;
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+body.desenvolvedores {
+    color: white;
+    background-image: linear-gradient(90deg,black,blue);
+    background-attachment: fixed;
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+body.imagem3 {
+    color: white;
+    background-image: url(../img/thumb-1920-545914.jpg);
+    background-attachment: fixed;
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+body.imagem4 {
+    color: white;
+    background-image: url(../img/download.jfif);
+    background-attachment: fixed;
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+body.imagem5 {
+    color: white;
+    background-image: url(../img/wp1936404.jpg);
+    background-attachment: fixed;
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+body.imagem6 {
+    color: white;
+    background-image: url(../img/science-albert-einstein-formula-mathematics-physics-special-relativity-wallpaper-thumb.jpg);
+    background-attachment: fixed;
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+body.imagem7 {
+    color: white;
+    background-image: url(../img/istockphoto-523831401-170667a.jpg);
+    background-attachment: fixed;
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+body.imagem8 {
+    color: white;
+    background-image: url(../img/ada-26095357009384.png);
+    background-attachment: fixed;
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+body.imagem9 {
+    color: white;
+    background-image: url(../img/Stephen-Hawking-pressenza.jpg);
+    background-attachment: fixed;
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+body.imagem10 {
+    color: white;
+    background-image: url(../img/teorema-de-pitagoras.webp);
+    background-attachment: fixed;
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+body.imagem11 {
+    color: white;
+    background-image: url(../img/rosalind-franklin.jpg);
+    background-attachment: fixed;
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+body.imagem12 {
+    color: white;
+    background-image: url(../img/143953-004-896139CE.jpg);
+    background-attachment: fixed;
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+body.imagem13 {
+    color: white;
+    background-image: url(../img/com-evolucao-dos-modelos-atomicos-nossa-concepcao-sobre-materia-inumeros-fenomenos-foi-sendo-mudada-575589b23eee6.jpg);
+    background-attachment: fixed;
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+body.imagem14 {
+    color: white;
+    background-image: url(../img/modelo-atomico-de-schrodinger-definicao-e-principais-caracteristicas-3.jpg);
+    background-attachment: fixed;
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+body.imagem15 {
+    color: white;
+    background-image: url(../img/download1.jfif);
+    background-attachment: fixed;
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+body.imagem16 {
+    color: white;
+    background-image: url(../img/i300662.jpeg);
+    background-attachment: fixed;
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+body.imagem17 {
+    color: white;
+    background-image: url(../img/download.png);
+    background-attachment: fixed;
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+/* body.imagem18 {
+    color: white;
+    background-image: url(../img/);
+    background-attachment: fixed;
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+body.imagem19 {
+    color: white;
+    background-image: url(../img/);
+    background-attachment: fixed;
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+body.imagem20 {
+    color: white;
+    background-image: url(../img/);
+    background-attachment: fixed;
+    background-size: 100%;
+    background-repeat: no-repeat;
+} */
+.float1 {
+    float: left;
+    margin-left: 30%;
+}
+.float2 {
+    float: right;
+    margin-right: 30%;
+}
+#aqui {
+    text-align: center;
+    text-decoration: underline;
+    font-size: 250%;
+}
+div {
+    font-size: x-large;
+}
+div.border {
+    border: 5px solid white;
+    border-left-color: red;
+}
+a {
+    color: white;
+    font-size: 150%;
+}
+br + h2 {
+    text-decoration: underline;
+}
+img.border {
+    border: 10px solid white;
+}
+.logo {
+    width: 40px;
+    position: absolute;
+    top: 10px;;
+    right: 10%;
+    text-decoration: none;
+}
+p.margin {
+    margin-left: 200px;
+}
+input {
+    margin: 2px;
+    padding: 6px;
+    border-radius: 5px;
+}
+button {
+    margin-top: 12px;
+    padding: 4px 8px;
+    border-radius: 10px;
+    background: #ffffff;
+}
+.transparente {
+    background: rgba(0,0,0,0.3);
+}
+.transparente2 {
+    background: rgba(0,0,0,0.8);
+}
+.outro {
+    margin-top: 200px;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+dd {
+    text-align: justify;
+}
